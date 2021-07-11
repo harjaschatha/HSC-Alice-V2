@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name keebio-components)(type KiCad)(uri D:/Basketweave-probably/Test/My-Keyboard/HSC_Alice/keebio-components)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri D:/Basketweave-probably/Test/My-Keyboard/HSC_Alice/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name libraries)(type KiCad)(uri D:/Basketweave-probably/Test/My-Keyboard/HSC_Alice/libraries)(options "")(descr "")(disabled))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri D:/Basketweave-probably/Test/My-Keyboard/HSC_Alice/MX_Alps_Hybrid.pretty/MX_Only.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri D:/Basketweave-probably/Test/My-Keyboard/HSC_Alice/random-keyboard-parts.pretty)(options "")(descr ""))
+)
