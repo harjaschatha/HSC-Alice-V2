@@ -2596,4 +2596,25 @@ Wire Wire Line
 	9725 1875 9725 3125
 Wire Wire Line
 	9075 2900 9975 2900
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX92
+U 1 1 60EC3BEF
+P 3275 3775
+F 0 "MX92" H 3308 3998 60  0000 C CNN
+F 1 "KC_P0" H 3308 3924 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-2U-Hotswap-ReversedStabilizers" H 2650 3750 60  0001 C CNN
+F 3 "" H 2650 3750 60  0001 C CNN
+	1    3275 3775
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3425 3725 3425 3750
+Wire Wire Line
+	3425 3750 3450 3750
+Connection ~ 3450 3750
+Wire Wire Line
+	3225 3925 3225 3950
+Wire Wire Line
+	3225 3950 3250 3950
+Connection ~ 3250 3950
 $EndSCHEMATC
