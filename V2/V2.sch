@@ -2617,4 +2617,50 @@ Wire Wire Line
 Wire Wire Line
 	3225 3950 3250 3950
 Connection ~ 3250 3950
+Text GLabel 750  825  0    50   Input ~ 0
+Col0
+Text GLabel 750  925  0    50   Input ~ 0
+Col1
+Text GLabel 750  1225 0    50   Input ~ 0
+Col2
+Text GLabel 750  1325 0    50   Input ~ 0
+Col3
+Text GLabel 750  1425 0    50   Input ~ 0
+Col4
+Text GLabel 750  1525 0    50   Input ~ 0
+Col5
+Text GLabel 750  1725 0    50   Input ~ 0
+Col7
+Text GLabel 750  1825 0    50   Input ~ 0
+Col8
+Text GLabel 750  1925 0    50   Input ~ 0
+Col9
+Text GLabel 750  1625 0    50   Input ~ 0
+Col6
+Text GLabel 1250 2325 3    50   Input ~ 0
+Row0
+Text GLabel 1350 2325 3    50   Input ~ 0
+Row1
+Text GLabel 1550 2325 3    50   Input ~ 0
+Row2
+Text GLabel 1650 2325 3    50   Input ~ 0
+Row3
+Text GLabel 2150 825  2    50   Input ~ 0
+Col18
+Text GLabel 2150 1225 2    50   Input ~ 0
+Col17
+Text GLabel 2150 1325 2    50   Input ~ 0
+Col16
+Text GLabel 2150 1425 2    50   Input ~ 0
+Col15
+Text GLabel 2150 1525 2    50   Input ~ 0
+Col14
+Text GLabel 2150 1625 2    50   Input ~ 0
+Col13
+Text GLabel 2150 1725 2    50   Input ~ 0
+Col12
+Text GLabel 2150 1825 2    50   Input ~ 0
+Col11
+Text GLabel 2150 1925 2    50   Input ~ 0
+Col10
 $EndSCHEMATC

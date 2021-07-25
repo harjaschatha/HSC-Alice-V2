@@ -2596,4 +2596,73 @@ Wire Wire Line
 	9725 1875 9725 3125
 Wire Wire Line
 	9075 2900 9975 2900
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX92
+U 1 1 60EC3BEF
+P 3275 3775
+F 0 "MX92" H 3308 3998 60  0000 C CNN
+F 1 "KC_P0" H 3308 3924 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-2U-Hotswap-ReversedStabilizers" H 2650 3750 60  0001 C CNN
+F 3 "" H 2650 3750 60  0001 C CNN
+	1    3275 3775
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3425 3725 3425 3750
+Wire Wire Line
+	3425 3750 3450 3750
+Connection ~ 3450 3750
+Wire Wire Line
+	3225 3925 3225 3950
+Wire Wire Line
+	3225 3950 3250 3950
+Connection ~ 3250 3950
+Text GLabel 750  825  0    50   Input ~ 0
+Col0
+Text GLabel 750  925  0    50   Input ~ 0
+Col1
+Text GLabel 750  1225 0    50   Input ~ 0
+Col2
+Text GLabel 750  1325 0    50   Input ~ 0
+Col3
+Text GLabel 750  1425 0    50   Input ~ 0
+Col4
+Text GLabel 750  1525 0    50   Input ~ 0
+Col5
+Text GLabel 750  1725 0    50   Input ~ 0
+Col7
+Text GLabel 750  1825 0    50   Input ~ 0
+Col8
+Text GLabel 750  1925 0    50   Input ~ 0
+Col9
+Text GLabel 750  1625 0    50   Input ~ 0
+Col6
+Text GLabel 1250 2325 3    50   Input ~ 0
+Row0
+Text GLabel 1350 2325 3    50   Input ~ 0
+Row1
+Text GLabel 1550 2325 3    50   Input ~ 0
+Row2
+Text GLabel 1650 2325 3    50   Input ~ 0
+Row3
+Text GLabel 2150 825  2    50   Input ~ 0
+Col18
+Text GLabel 2150 1225 2    50   Input ~ 0
+Col17
+Text GLabel 2150 1325 2    50   Input ~ 0
+Col16
+Text GLabel 2150 1425 2    50   Input ~ 0
+Col15
+Text GLabel 2150 1525 2    50   Input ~ 0
+Col14
+Text GLabel 2150 1625 2    50   Input ~ 0
+Col13
+Text GLabel 2150 1725 2    50   Input ~ 0
+Col12
+Text GLabel 2150 1825 2    50   Input ~ 0
+Col11
+Text GLabel 2150 1925 2    50   Input ~ 0
+Col10
+Text GLabel 1450 2325 3    50   Input ~ 0
+Row1
 $EndSCHEMATC
