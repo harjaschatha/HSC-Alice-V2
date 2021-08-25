@@ -647,7 +647,7 @@ L MX_Alps_Hybrid:MX-NoLED MX23
 U 1 1 617D31E8
 P 4200 4925
 F 0 "MX23" H 4233 5148 60  0000 C CNN
-F 1 "Caps" H 4233 5074 20  0000 C CNN
+F 1 "Tab" H 4233 5074 20  0000 C CNN
 F 2 "MX_Alps_Hybrid:MXOnly-1.25U-NoLED" H 3575 4900 60  0001 C CNN
 F 3 "" H 3575 4900 60  0001 C CNN
 	1    4200 4925
@@ -2704,7 +2704,7 @@ U 1 1 618F4316
 P 4175 4400
 F 0 "MX90" H 4208 4623 60  0000 C CNN
 F 1 "Caps2" H 4208 4549 20  0000 C CNN
-F 2 "MX_Alps_Hybrid:MXOnly-1.5U-NoLED" H 3550 4375 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.25U-NoLED" H 3550 4375 60  0001 C CNN
 F 3 "" H 3550 4375 60  0001 C CNN
 	1    4175 4400
 	1    0    0    -1  
@@ -2720,4 +2720,147 @@ Wire Wire Line
 	4325 4350 4325 4375
 Wire Wire Line
 	4325 4375 4350 4375
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 61267258
+P 4225 6725
+F 0 "H2" H 4325 6771 50  0000 L CNN
+F 1 "MountingHole" H 4325 6680 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4225 6725 50  0001 C CNN
+F 3 "~" H 4225 6725 50  0001 C CNN
+	1    4225 6725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 61268B72
+P 4425 6725
+F 0 "H5" H 4525 6771 50  0000 L CNN
+F 1 "MountingHole" H 4525 6680 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4425 6725 50  0001 C CNN
+F 3 "~" H 4425 6725 50  0001 C CNN
+	1    4425 6725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 61268E18
+P 4625 6725
+F 0 "H8" H 4725 6771 50  0000 L CNN
+F 1 "MountingHole" H 4725 6680 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4625 6725 50  0001 C CNN
+F 3 "~" H 4625 6725 50  0001 C CNN
+	1    4625 6725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 61268FB1
+P 4225 6900
+F 0 "H3" H 4325 6946 50  0000 L CNN
+F 1 "MountingHole" H 4325 6855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4225 6900 50  0001 C CNN
+F 3 "~" H 4225 6900 50  0001 C CNN
+	1    4225 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 61269354
+P 4425 6900
+F 0 "H6" H 4525 6946 50  0000 L CNN
+F 1 "MountingHole" H 4525 6855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4425 6900 50  0001 C CNN
+F 3 "~" H 4425 6900 50  0001 C CNN
+	1    4425 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 6126A6E1
+P 4625 6900
+F 0 "H9" H 4725 6946 50  0000 L CNN
+F 1 "MountingHole" H 4725 6855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4625 6900 50  0001 C CNN
+F 3 "~" H 4625 6900 50  0001 C CNN
+	1    4625 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 6126AAFD
+P 4825 6900
+F 0 "H11" H 4925 6946 50  0000 L CNN
+F 1 "MountingHole" H 4925 6855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4825 6900 50  0001 C CNN
+F 3 "~" H 4825 6900 50  0001 C CNN
+	1    4825 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 6126B70B
+P 4225 6550
+F 0 "H1" H 4325 6596 50  0000 L CNN
+F 1 "MountingHole" H 4325 6505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4225 6550 50  0001 C CNN
+F 3 "~" H 4225 6550 50  0001 C CNN
+	1    4225 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 6126BB80
+P 4425 6550
+F 0 "H4" H 4525 6596 50  0000 L CNN
+F 1 "MountingHole" H 4525 6505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4425 6550 50  0001 C CNN
+F 3 "~" H 4425 6550 50  0001 C CNN
+	1    4425 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 6126BEA3
+P 4625 6550
+F 0 "H7" H 4725 6596 50  0000 L CNN
+F 1 "MountingHole" H 4725 6505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4625 6550 50  0001 C CNN
+F 3 "~" H 4625 6550 50  0001 C CNN
+	1    4625 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP1
+U 1 1 6133C5CF
+P 3450 6625
+F 0 "TP1" H 3508 6743 50  0000 L CNN
+F 1 "TestPoint" H 3508 6652 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3650 6625 50  0001 C CNN
+F 3 "~" H 3650 6625 50  0001 C CNN
+	1    3450 6625
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP2
+U 1 1 6133CCCC
+P 3450 6975
+F 0 "TP2" H 3508 7093 50  0000 L CNN
+F 1 "TestPoint" H 3508 7002 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3650 6975 50  0001 C CNN
+F 3 "~" H 3650 6975 50  0001 C CNN
+	1    3450 6975
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP3
+U 1 1 6133CF80
+P 3450 7275
+F 0 "TP3" H 3508 7393 50  0000 L CNN
+F 1 "TestPoint" H 3508 7302 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3650 7275 50  0001 C CNN
+F 3 "~" H 3650 7275 50  0001 C CNN
+	1    3450 7275
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
